@@ -1,0 +1,26 @@
+_repo: The-Atomic-Bombings-of-Hiroshima-and-Nagasaki_685
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. Army. Corps of Engineers. Manhattan District
+    gutenberg_agent_id: '352'
+    url: http://www.gutenberg.org/2009/agents/352
+description: "Cf. Trinity Atomic Web Site:\r\nhttp://www.envirolink.org/issues/nuketesting/"
+gutenberg_issued: '1996-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '685'
+language: en
+publication_note: '[S.l.] :  Manhattan Engineer District of the United States Army,  1946'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atomic bomb -- Physiological effect'
+- !lcsh 'Hiroshima-shi (Japan) -- History -- Bombardment, 1945'
+- !lcc 'D'
+- !lcsh 'Atomic bomb -- Blast effect'
+- !lcsh 'Nagasaki-shi (Japan) -- History -- Bombardment, 1945'
+- GITenberg
+title: The Atomic Bombings of Hiroshima and Nagasaki
+url: http://www.gutenberg.org/ebooks/685
